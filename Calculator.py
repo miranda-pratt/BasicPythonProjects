@@ -1,5 +1,4 @@
 # Main program function
-
 def main():
 
     # Allow the user to choose between addition, subtraction, multiplication and division

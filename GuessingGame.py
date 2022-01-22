@@ -88,7 +88,7 @@ def main():
             print("Game over, number was " + str(number))
             main()
 
-    # If the input is not 1 or 2, display a message and recall main
+    # If the input is not 1 or 2, display a message and recall main()
     else:
 
         print("Invalid input, please try again")
